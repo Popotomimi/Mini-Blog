@@ -1,0 +1,36 @@
+.post_datail {
+    margin-bottom: 2em;
+}
+
+.post_datail img{
+    max-width: 600px;
+    max-height: 500px;
+    margin: 0 auto;
+    display: flex;
+    border: #444 solid 1px;
+    border-radius: 15px;
+}
+
+.post_datail h2 {
+    margin-bottom: .4em;
+}
+
+.post_datail .tags {
+    margin-bottom: 1.2em;
+    display: flex;
+}
+
+.tags p {
+    margin-right: .5em;
+}
+
+.tags span {
+    font-weight: bold;
+}
+
+.createdby {
+    font-style: italic;
+    color: #444;
+    font-size: .8em;
+    margin-bottom: 1em;
+}

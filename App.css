@@ -1,0 +1,14 @@
+.container{
+  min-height: 60vh;
+  margin-bottom: 5em;
+}
+
+.exit {
+  color: rgba(179, 4, 4, 0.664);
+}
+
+.exit:hover {
+  color: red;
+  transition: .5s;
+  font-weight: 900;
+}
